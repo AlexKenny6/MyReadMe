@@ -4,6 +4,7 @@ Hello All! I am currently looking for a SWE or SDE role in the Greater Seattle A
 
 Previous company GitHub Accounts:
 
-https://github.com/AlexKennyDG6/AlexKennyDG6
-
-https://github.com/AlexKennyHC/AlexKennyHC
+| ----------- | ----------- | ----------- |
+| Company | My Role | My Company GitHub |
+| Drop - In Gaming LLC | Junior Web Developer | https://github.com/AlexKennyDG6/AlexKennyDG6 |
+| Harbor Compliance | Software Enginer I | https://github.com/AlexKennyHC/AlexKennyHC |
